@@ -20,4 +20,30 @@ This project is a simple decentralized application (DApp) that generates a rando
    git clone https://github.com/your-repo/random-number-dapp.git
    cd random-number-dapp
    ```
-   Use the Live Server extension to run the index.html on your browser.
+   +Use the Live Server extension to run the index.html on your browser.
+
+   <img width="1052" alt="image" src="https://github.com/CagatayAkkas/VRF-Random-Number-Generator-Upwork/assets/108520279/510e034d-b1be-4da0-ad30-db9a36163e15">
+
+   +Connect your wallet with using Connect button.
+   
+   <img width="406" alt="image" src="https://github.com/CagatayAkkas/VRF-Random-Number-Generator-Upwork/assets/108520279/49093af2-fb74-48ab-96d8-bd51ed7d1090">
+
+   +Enter a max value as the limit of the random number you will get.
+
+   <img width="381" alt="image" src="https://github.com/CagatayAkkas/VRF-Random-Number-Generator-Upwork/assets/108520279/9cfd90e6-ad08-4bd4-8df3-5d24459a7149">
+
+   +Click on the Get Random Number button.
+
+   <img width="377" alt="image" src="https://github.com/CagatayAkkas/VRF-Random-Number-Generator-Upwork/assets/108520279/4529b2f9-43df-4431-bd22-40953a66456d">
+
+   +Sign the transaction.
+
+   <img width="415" alt="image" src="https://github.com/CagatayAkkas/VRF-Random-Number-Generator-Upwork/assets/108520279/05e96724-21e1-40a2-9288-86d45f335cf4">
+
+   +Wait for the response of Chainlink VRF
+
+### Result
+
+You will be able to get a verifiable random number. And for being sure you can see the transaction happened with the link that appear on the screen. 
+
+<img width="379" alt="image" src="https://github.com/CagatayAkkas/VRF-Random-Number-Generator-Upwork/assets/108520279/62e347fd-3750-40f6-a936-cab780d13b5b">
